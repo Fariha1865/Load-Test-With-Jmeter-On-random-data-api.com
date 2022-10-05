@@ -28,4 +28,5 @@ https://docs.google.com/spreadsheets/d/1r9g2BsrnQX9DDMomwgbOuY4tFF78dWwM/edit?us
 
 ![Load](https://user-images.githubusercontent.com/54511128/194081506-d5b82f35-d128-4032-87d8-9edcd50b7f10.png)
 ![Capture](https://user-images.githubusercontent.com/54511128/194081632-3325722b-6a80-4f3c-85e6-f4a9c5b7b2ef.PNG)
-![Stress](https://user-images.githubusercontent.com/54511128/194081665-55a8e69f-26d8-4ac2-862d-b97931c47319.png)
+
+![Stress](https://user-images.githubusercontent.com/54511128/194106267-e53fcdf4-6147-46b9-aad2-d18a6f70dbf1.png)
