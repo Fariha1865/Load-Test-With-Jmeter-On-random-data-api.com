@@ -1,4 +1,4 @@
-# Load-Test-With-Jmeter-On-random-data-api.com
+# Random-User-API-Performance-Test with Jmeter
 
 ## Technology and Tool used
 
