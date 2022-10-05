@@ -18,8 +18,8 @@
 - Run the file in Jmeter with the values from the excell sheets
 
 ## prerequisites
-**You must have jdk and jmeter installed in your system**
-
+- **You must have jdk and jmeter installed in your system**
+- JDK_HOME and JMETER_HOME path variables should be properly configured in local pc's Environment Variables 
 
 ## Excell Documents of Load and Stress Strategy
 https://docs.google.com/spreadsheets/d/1r9g2BsrnQX9DDMomwgbOuY4tFF78dWwM/edit?usp=sharing&ouid=113984228926483049674&rtpof=true&sd=true
