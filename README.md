@@ -14,7 +14,7 @@
 
 ## How to run this project
 
-- Download the jmx file
+- Download the jmx file and keep in bin folder in path\apache-jmeter-5.5\apache-jmeter-5.5\bin
 - Run the file in Jmeter with the values from the excell sheets
 
 ## prerequisites
